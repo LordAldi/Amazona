@@ -44,6 +44,7 @@ a:hover {
 .header-links a {
   color: #fff;
   text-decoration: none;
+  margin-right: 1rem;
 }
 .header-links a:hover {
   color: #ff8000;
