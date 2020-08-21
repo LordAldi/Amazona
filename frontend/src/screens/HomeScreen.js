@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 
 import { useSelector, useDispatch } from "react-redux";
-import { productListReducer } from "../reducers/productReducers";
 import { listProducts } from "../actions/productActions";
 
 export default function HomeScreen(props) {
